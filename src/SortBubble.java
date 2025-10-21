@@ -1,7 +1,6 @@
 public class SortBubble {
     
     public SortBubble(){
-        System.out.println("Sort Bubble Ascendente y Descendente");
         System.out.println("-------------------------------------");
     }
 
