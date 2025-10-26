@@ -16,3 +16,13 @@ Salida de Python
 
 Salida de Java
 ![alt text](assets/SortSelectionJava.png)
+
+### Practica 3 - 23/OCT
+
+![alt text](assets/SortInsertionByNumber.png)
+
+![alt text](assets/SortInsertionByName.png)
+
+![alt text](assets/SortInsertionPersonByAge.png)
+
+![alt text](assets/SortInsertionPersonByName.png)
